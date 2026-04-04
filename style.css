@@ -1,0 +1,29 @@
+body {
+    background-color: #D29BFD;
+}
+h1 {
+    color: deeppink;
+    font-family: Times New Roman
+}
+
+h1 {text-align: center}
+
+p {
+    color: deeppink;
+    font-family: Baskerville}
+
+a {
+    color: blueviolet;
+}
+button {
+    background-color: pink;
+    border: azure
+    
+    @media (max-width: 768px) {
+    body {
+        font-size: 16px;
+    }
+    .container {
+        flex-direction: column; /* Coloca itens um embaixo do outro no celular */
+    }
+    
