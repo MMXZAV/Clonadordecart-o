@@ -1,6 +1,14 @@
-body {
+@media (max-width: 768px) {
+    body {
+        font-size: 16px;
+    }
+    .container {
+        flex-direction: column;
+}
+    {
     background-color: #D29BFD;
 }
+    
 h1 {
     color: deeppink;
     font-family: Times New Roman
@@ -19,11 +27,4 @@ button {
     background-color: pink;
     border: azure
     
-    @media (max-width: 768px) {
-    body {
-        font-size: 16px;
-    }
-    .container {
-        flex-direction: column;
-}
     
