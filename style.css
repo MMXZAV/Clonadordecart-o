@@ -1,14 +1,6 @@
-@media (max-width: 768px) {
-    body {
-        font-size: 16px;
-    }
-    .container {
-        flex-direction: column;
-}
-    {
+body {
     background-color: #D29BFD;
 }
-    
 h1 {
     color: deeppink;
     font-family: Times New Roman
