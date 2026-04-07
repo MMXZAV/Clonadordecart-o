@@ -1,0 +1,27 @@
+body {
+    background-color: #D29BFD;
+}
+h1 {
+    color: deeppink;
+    font-family: Times New Roman
+}
+
+h1 {text-align: center}
+
+h2 {color: deeppink;
+    font-family: Times New Roman
+    
+}
+
+p {
+    color: deeppink;
+    font-family: Baskerville}
+
+a {
+    color: blueviolet;
+}
+button {
+    background-color: pink;
+    border: azure
+    
+    
