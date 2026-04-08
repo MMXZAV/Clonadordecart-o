@@ -28,5 +28,5 @@ button {
 
     .diário {
         border: 1px solid gray;
-        font-family: "Sofia" sans-serif;
+        font-family: "Sofia", sans-serif;
     }
