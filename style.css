@@ -3,10 +3,10 @@ body {
 }
 h1 {
     color: deeppink;
-    font-family: Times New Roman
+    font-family: Times New Roman;
+    text-align: center
 }
 
-h1 {text-align: center}
 
 h2 {color: deeppink;
     font-family: Times New Roman
@@ -15,13 +15,17 @@ h2 {color: deeppink;
 
 p {
     color: deeppink;
-    font-family: Baskerville}
+    font-family: Baskerville;
+    text-align: justify
+}
 
 a {
     color: blueviolet;
 }
 button {
     background-color: pink;
-    border: azure
-    
-    
+    border: azure}
+    .diário {
+        border: 1px solid gray;
+        font-family: "Sofia" sans-serif;
+  }
