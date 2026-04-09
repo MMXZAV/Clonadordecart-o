@@ -2,21 +2,19 @@ body {
     background-color: #D29BFD;
 }
 h1 {
-    color: deeppink;
-    font-family: Times New Roman;
-    text-align: center
+    color: mediumpurple;
+    font-family: "Abril Fatface", serif;
+    text-align: center;
+    text-decoration: underline
 }
 
 
 h2 {color: deeppink;
-    font-family: Times New Roman
-    
+    font-family: "Bebas Neue", sans-serif
 }
 
-p {
-    color: deeppink;
-    font-family: Baskerville;
-    text-align: justify
+img {width: "300"
+
 }
 
 a {
@@ -26,7 +24,19 @@ button {
     background-color: pink;
     border: azure;}
 
+.parágrafo { color: deeppink;
+    font-family: Times;
+    text-align: justify
+}
+
+.data { color: magenta;
+    font-family: Courier New;
+    
+}
+
     .diário {
-        border: 1px solid gray;
-        font-family: "Sofia", sans-serif;
-    }
+        border: 1px solid pink;
+  text-align: justify;
+  color: pink;
+  font-family: Caveat;
+  }
